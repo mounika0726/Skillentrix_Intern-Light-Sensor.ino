@@ -43,9 +43,6 @@ Based on the detected light intensity:
 
 This project was designed and tested using Tinkercad Circuits.
 
-🔗 **Live Tinkercad Simulation:**  
-PASTE YOUR TINKERCAD LINK HERE
-
 ## Circuit
 
 ![Light Intensity Circuit](circuit.png)
